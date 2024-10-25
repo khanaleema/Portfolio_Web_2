@@ -1,0 +1,26 @@
+[
+    {
+      "title": "E-Commerce Website",
+      "imageSrc": "projects/b.webp",
+      "description": "fully responsive and feature-rich e-commerce website.",
+      "skills": ["Next.js", "API", "Tailwind"],
+      "demo": "https://ecommerce-website-next-js-five.vercel.app/",
+      "source": "https://github.com/khanaleema/Ecommerce_Website_Next.js"
+    },
+    {
+      "title": "Global-Atlas",
+      "imageSrc": "projects/a.png",
+      "description": "This project covers React 19 features, dynamic routes, Axios API.",
+      "skills": ["React", "CSS", "Router-dom", "Axios"],
+      "demo": "hhttps://heartfelt-granita-ed7fe2.netlify.app/",
+      "source": "https://github.com/khanaleema/React-Global-Explorer"
+    },
+    {
+      "title": "React-Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is My personal portfolio made with react and Tailwind CSS",
+      "skills": ["React", "Tailwind", "Framer-Motion"],
+      "demo": "https://earnest-tapioca-803eab.netlify.app/",
+      "source": "https://github.com/khanaleema/React-Portfolio-Web"
+    }
+  ]
